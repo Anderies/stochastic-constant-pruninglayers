@@ -22,5 +22,5 @@ in this experiment authors is trying to remove sequential layer in sequence to m
 ### <b>4. Overall experiment result in ResNet50 constant* depth: </b><br/>
 <img src="https://github.com/Anderies/stochastic-constant-pruninglayers/blob/master/Figure/constant%20experiment.png" width="50%" height="50%">
 
-*constant is standard resnet50 architecture by Kaiming He et al. in Deep Residual Learning for Image Recognition https://arxiv.org/abs/1512.03385
+*constant is standard resnet50 architecture by Kaiming He et al. in Deep Residual Learning for Image Recognition https://arxiv.org/abs/1512.03385<br/><br/>
 *stochastic depth is resnet50 architecture by Gao Huang et al. in Deep Networks with Stochastic Depth https://arxiv.org/abs/1603.09382

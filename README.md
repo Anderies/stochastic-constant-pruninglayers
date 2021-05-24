@@ -1,4 +1,4 @@
-# stochastic-constant-pruninglayers
+# Stochastic-constant-pruninglayers
 [PyTorch] experiment CIFAR-10 dataset with ResNet stochastic-model and constant-model pruning layers 
 
 ablation study case:
